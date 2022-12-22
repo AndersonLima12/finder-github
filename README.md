@@ -1,1 +1,1 @@
-# 🌪  finder_github
+# 🌪  Finder Github
