@@ -31,12 +31,13 @@
 
 <br/>
  
-#  Imagens do projeto... 📸
+### 📸 Imagem do projeto 
 
-![cover](.github/project.png?style=flat)
 
-<br>
-<hr>
+<img align="left" width="520em" border-radius="20px" title="#Desktop" src="/public/project.png" />
+
+
+
 
 ### Para você que ainda não sabe ? 👨🏻‍💻
 
