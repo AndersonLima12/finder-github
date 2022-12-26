@@ -1,6 +1,6 @@
 <div align="center">
-<img src="https://img.shields.io/github/forks/AndersonLima12/Github-Finder"/>
-<img src="https://img.shields.io/github/stars/AndersonLima12/Github-Finder"/>
+<img src="https://img.shields.io/github/forks/AndersonLima12/finder_github"/>
+<img src="https://img.shields.io/github/stars/AndersonLima12/finder_github"/>
 </div>
  
 <br/>
@@ -46,7 +46,8 @@
 - **React Js:** O React é uma biblioteca JavaScript de código aberto com foco em criar interfaces de usuário em páginas web. É mantido pelo Facebook, Instagram, outras empresas e uma comunidade de desenvolvedores individuais.
 - **TypeScript:** TypeScript é uma linguagem de programação de código aberto desenvolvida pela Microsoft. É um superconjunto sintático estrito de JavaScript e adiciona tipagem estática opcional à linguagem.
 - **API:** As APIs são um conjunto de padrões que fazem parte de uma interface e que permitem a criação de plataformas de maneira mais simples e prática para desenvolvedores. A partir de APIs é possível criar softwares, aplicativos, programas e plataformas diversas.
-- 
+
+
 <div align="center">
 <br/> <br/> Feito com ❤️ por Anderson Lima 👋🏽 Entre em contato!
 </div>
